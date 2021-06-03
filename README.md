@@ -408,5 +408,5 @@ my-consumer-project git:(my-feature-branch) tag-release pr
 	If you have GitHub Two Factor Authentication enabled and you are prompted for
 	your password when `tag-release` tries to push code then you'll need to use
 	your GitHub `token` as your password. If you use the `--verbose` option when
-	running a `tag-release` command it'll log your token to the console.
+	running a `tag-release` command it'll log your token to the console. :)
 </details>
